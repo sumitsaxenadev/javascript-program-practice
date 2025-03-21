@@ -1,14 +1,29 @@
 # JavaScript Programs for DSA
 
-This repository contains a collection of JavaScript programs categorized by topics to help improve coding skills and prepare for technical interviews.
+## 📋 List of Programs
+
+- [Basics](#basics)
+- [String](#string)
+- [Numbers](#numbers)
+- [Arrays](#arrays)
+- [Loops](#loops)
+- [Recursion](#recursion)
+- [Search and Sort](#search-and-sort)
+- [Tree](#tree)
+- [Graph](#graph)
+- [Dynamic Programming](#dynamic-programming)
 
 ---
 
 ## 🚀 Basics
 
-### 1. Print "Hello, World!"
+### Programs:
 
-**Program:**
+- [Print "Hello, World!"](#1-print-hello-world)
+- [Add Two Numbers](#2-add-two-numbers)
+- [Swap Two Variables](#3-swap-two-variables)
+
+### 1. Print "Hello, World!"
 
 ```javascript
 console.log("Hello, World!");
