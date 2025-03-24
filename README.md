@@ -5,7 +5,7 @@
 - [Basics](#basics)
 - [String](#string)
 - [Numbers](#numbers)
-- [Arrays](#arrays)
+<!-- - [Arrays](#arrays)
 - [Loops](#loops)
 - [Recursion](#recursion)
 - [Search and Sort](#search-and-sort)
@@ -13,7 +13,7 @@
 - [Graph](#graph)
 - [Dynamic Programming](#dynamic-programming)
 
----
+--- -->
 
 ## 🚀 Basics
 
